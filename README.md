@@ -14,5 +14,7 @@ Much more ++
 virtualenv econenv
 source env/bin/activate
 
+To Find me linkedin : https://www.linkedin.com/in/nizamthakur/
+facebook : https://www.facebook.com/nizam.thakur71/
 
 
